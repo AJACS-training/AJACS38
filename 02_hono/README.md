@@ -52,7 +52,7 @@
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>【余談】
 <a href="http://biogps.org/iphone/" rel="nofollow">BioGPSのiPhoneアプリ</a>が無料で公開されていますので、「あの遺伝子はどの組織で発現してるのかな？」とふと調べたいときにお手持ちのiPhoneで遺伝子発現を調べられます。</li></ul>
 
-<h3 id="content_1_4"><a id="s29e8caa" href="http://MotDB.DBCLS.jp/?AJACS38%2Fhono1#s29e8caa" title="s29e8caa"><span class="sanchor">_</span></a> <a href="http://refex.dbcls.jp/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px"><span class="noexists">RefEx?</span>（Reference Expression dataset）</span></a>  </h3>
+<h3 id="content_1_4"><a id="s29e8caa" href="http://MotDB.DBCLS.jp/?AJACS38%2Fhono1#s29e8caa" title="s29e8caa"><span class="sanchor">_</span></a> <a href="http://refex.dbcls.jp/" rel="nofollow">RefEx（Reference Expression dataset）</a>  </h3>
 <p><span style="color:green">ヒト、マウス、ラットの4つの異なる実験手法によって得られた40種類の正常組織における遺伝子発現リファレンスデータセット</span></p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>正常組織・臓器における遺伝子発現のリファレンス
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>4つの異なる実験手法によって得られた40種類の正常組織・臓器における遺伝子発現データを並列に表現することで、手法間の比較とともに各遺伝子の発現量を直感的に比較することができます。</li></ul></li>
