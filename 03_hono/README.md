@@ -21,7 +21,11 @@
 <p><span style="color:green">マイクロアレイデータの生物学的な解釈</span></p>
 <blockquote><p class="quotation"><a href="http://david.abcc.ncifcrf.gov/" rel="nofollow">http://david.abcc.ncifcrf.gov/</a></p></blockquote>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>マイクロアレイ実験の一般的な目的は、実験条件によって得られたある遺伝子群の発現が生物学的にどういう意味を持つかを考えることです。
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS14%2Fthecla&amp;openfile=microarray.analysis.005.png" title="microarray.analysis.005.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS14%2Fthecla&amp;src=microarray.analysis.005.png" alt="microarray.analysis.005.png" title="microarray.analysis.005.png" width="410" height="242" /></a></div>
+<div class="img_margin" style="text-align:left">
+
+<img src="microarray.analysis.005.png" alt="microarray.analysis.005.png" title="microarray.analysis.005.png" width="410" height="242" />
+
+</div>
 </li>
 <li>今回は、その方法の一つとして、マイクロアレイの結果に<a href="http://www.google.co.jp/url?sa=t&amp;source=web&amp;cd=4&amp;ved=0CEEQFjAD&amp;url=http%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E9%2581%25BA%25E4%25BC%259D%25E5%25AD%2590%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC&amp;ei=ve9QTd6XMtG6cbeW1KUH&amp;usg=AFQjCNF8U-O4ktlMGoR9DNC0wKltmbjtmw" rel="nofollow">Gene Ontology</a>の用語を付与することで、生物学的な解釈を行います。</li></ul>
 
@@ -49,9 +53,12 @@
 <a name="plugin_fold_anchor1"></a>
 <div class="plugin_fold_title_plus" onclick="return plugin_fold_onclick(this,event,'plugin_fold_anchor1')"><p>結果</p>
 </div>
-<div class="plugin_fold_body"><div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS24%2Fhono&amp;openfile=david_go_bp.png" title="david_go_bp.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS24%2Fhono&amp;src=david_go_bp.png" alt="david_go_bp.png" title="david_go_bp.png" width="989" height="833" /></a></div>
 
-</div></li>
+<div class="img_margin" style="text-align:left">
+
+<img src="david_go_bp.png" alt="david_go_bp.png" title="david_go_bp.png" width="989" height="833" />
+</div>
+</li>
 <li>[応用編] Pathways &gt; KEGG_PATHWAY や Tissue Expression &gt; UP_TISSUE なども見てみましょう。生物学的にどういうことが言えるでしょうか。
 <a name="plugin_fold_anchor2"></a>
 <div class="plugin_fold_title_plus" onclick="return plugin_fold_onclick(this,event,'plugin_fold_anchor2')"><p>サンプルデータの答え</p>
@@ -75,7 +82,7 @@
 <p><br class="spacer" /></p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>その後、Entrez Gene ID行のみに整形したテキストファイルをPANTHERにSubmitします。
 <br class="spacer" />
-→ <a href="http://motdb.dbcls.jp/?plugin=attach&amp;pcmd=open&amp;file=affy_to_geneid.txt&amp;refer=AJACS35%2Fhono" rel="nofollow">変換済みマル秘遺伝子リスト</a>
+→ <a href="affy_to_geneid.txt" rel="nofollow">変換済みマル秘遺伝子リスト</a>
 <br class="spacer" /></li></ul>
 
 <h3 id="content_1_3"><a id="t120060f" href="http://MotDB.DBCLS.jp/?AJACS38%2Fhono2#t120060f" title="t120060f">_</a> 【実習3-2】PANTHERを用いて、発現データの結果を生物学的に解釈する  </h3>
@@ -91,7 +98,7 @@
 <li>9. Launch Analysisをクリックして分析結果を表示します。</li>
 <li>7. まず、P-valueの昇順でリストが表示されます。どのようなGO termが上位に来ているでしょうか。またそれらをDAVIDと比較してみましょう。</li>
 <li>8. [応用編] Viewを切り替えて、さまざまなグラフ形式で解析結果を見てみましょう。生物学的にどういうことが言えるでしょうか。</li>
-<li>9. その他のデータではどのような結果が表示されるでしょうか。<a href="http://motdb.dbcls.jp/?plugin=attach&amp;pcmd=open&amp;file=gse1657_adipo_up500_geneid.txt&amp;refer=AJACS38%2Fhono2" rel="nofollow">参考動画で使われているヒトの脂肪細胞の分化過程(GSE1657)で発現増加した上位500個の遺伝子群のEntrez Gene IDリスト</a></li></ul>
+<li>9. その他のデータではどのような結果が表示されるでしょうか。<a href="gse1657_adipo_up500_geneid.txt" rel="nofollow">参考動画で使われているヒトの脂肪細胞の分化過程(GSE1657)で発現増加した上位500個の遺伝子群のEntrez Gene IDリスト</a></li></ul>
 <hr class="full_hr" />
 
 <h3 id="content_1_4"><a id="z337008a" href="http://MotDB.DBCLS.jp/?AJACS38%2Fhono2#z337008a" title="z337008a"><span class="sanchor">_</span></a> <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">NCBI Gene Expression Omnibus (GEO)</span></a>  </h3>
