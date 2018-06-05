@@ -2,4 +2,4 @@
 
 - [資料（PDF）]()
 - [サンプルデータ](Colorpathwaysample.txt)（Colorpathwaysample.txt）
-- [サンプルデータ](Search&Colorpathwaysample.txt)（Search&Colorpathwaysample.txt）
+- [サンプルデータ](Search_Colorpathwaysample.txt)（Search&Colorpathwaysample.txt）
