@@ -16,7 +16,7 @@
 <li><a href="http://togotv.dbcls.jp/ja/contents/category/expression#%E9%81%BA%E4%BC%9D%E5%AD%90%E3%83%BB%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E7%99%BA%E7%8F%BE%E3%82%92%E7%B6%B2%E7%BE%85%E7%9A%84%E3%81%AB%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%84" rel="nofollow">統合TV の発現制御解析 カテゴリー</a>から探す</li></ul>
 
 <h3 id="content_1_1"><a id="h2a90094" href="http://MotDB.DBCLS.jp/?AJACS38%2Fhono1#h2a90094" title="h2a90094"><span class="sanchor">_</span></a> 講習に必要な基礎知識「遺伝子のDB・ウェブツールの基礎」  </h3>
-<ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://motdb.dbcls.jp/?AJACS33%2Fmeso#e3b0f070" rel="nofollow">過去の講習会ページ</a>をご参照ください。</li></ul>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="https://github.com/AJACS-training/AJACS33/tree/master/05_naito_bono" rel="nofollow">過去の講習会ページ</a>をご参照ください。</li></ul>
 
 <h3 id="content_1_2"><a id="bb55f671" href="http://MotDB.DBCLS.jp/?AJACS38%2Fhono1#bb55f671" title="bb55f671"><span class="sanchor">_</span></a> <a href="http://biogps.org/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">BioGPS</span></a>  </h3>
 <p><span style="color:green">ヒト、マウス、ラットのさまざまな組織や細胞(株)における遺伝子発現プロファイルのデータベース</span></p>
