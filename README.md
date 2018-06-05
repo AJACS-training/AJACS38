@@ -17,6 +17,6 @@
 ### PC
 ご自身でPCをご用意ください （無線LAN使用。無線LAN接続が可能なPCであること）
 ### 申込
-NBDCのサイトからお申し込みください
+[NBDCのサイト](https://events.biosciencedbc.jp/training/ajacs38)からお申し込みください
 
 申込締切：5月20日(月)12:00まで　※定員超過の場合は抽選となります。
